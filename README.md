@@ -1,3 +1,3 @@
-# Milo的ex-Hippocampus
+# Master的理想乡
 
-http://miloyip.com/
+http://grayzane.com/

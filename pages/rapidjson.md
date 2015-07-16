@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "RapidJSON"
-subheadline: "高效的C++ JSON解析／生成器，提供SAX及DOM风格API"
-permalink: "/rapidjson/"
+title: "Basic"
+subheadline: "开源项目 算法心得"
+permalink: "/basic/"
 ---
-{% include list-posts.html category='rapidjson' %}
+{% include list-posts.html category='basic' %}
