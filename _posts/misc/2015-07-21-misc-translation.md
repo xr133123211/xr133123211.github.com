@@ -2,7 +2,7 @@
 layout: page
 title: Quora 搬运和翻译 
 categories:
-    - rapidjson
+    - misc
 image:
     title: header_rapidjson_unicode.jpg
     caption: 老彼得·布吕赫尔笔下的巴别塔
