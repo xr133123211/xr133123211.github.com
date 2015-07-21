@@ -20,20 +20,20 @@ Answered by Thomas Henderson
 中国渴望战争吗？
 
 
-1. China is ignoring some international pressures such as refusing to conform to international copyright and intellectual property laws but is certainly happy to conform in other areas such as environmentalism, for example China has finally made promises on reducing carbon emissions and has pledged only to use nukes as a response to being nuked.
+China is ignoring some international pressures such as refusing to conform to international copyright and intellectual property laws but is certainly happy to conform in other areas such as environmentalism, for example China has finally made promises on reducing carbon emissions and has pledged only to use nukes as a response to being nuked.
 
 中国往往会忽视一些国际紧张问题，比如他拒绝遵守国际著作权和知识产权法律。但他却很乐意遵守其他范围内的一些规定。比如在环境保护问题上，中国最终做出了减少碳排放的承诺，他还声明绝不率先使用核武器。
 
-2. It is true that China is taking the territorial waters of Vietnam and the Philippines which does seem out of order. The Chinese government knows that it can acquire those waters without spilling a drop of blood, if it does 'verge on insanity' it also verges on extreme cunning . Taking land on the other hand is a totally different game and personally I don't think President Xi is nearly as stupid as Hitler in this regard.
+It is true that China is taking the territorial waters of Vietnam and the Philippines which does seem out of order. The Chinese government knows that it can acquire those waters without spilling a drop of blood, if it does 'verge on insanity' it also verges on extreme cunning . Taking land on the other hand is a totally different game and personally I don't think President Xi is nearly as stupid as Hitler in this regard.
 
 毫无疑问的是，中国正在侵占越南和菲律宾的领海，这举措很不合理。中国政府认为他们能不流一滴血地拿下这些领海，这显得要么他是近乎疯狂要么就是近乎极度狡猾了。另一方面，侵占领土是一个完全不同的游戏，我个人认为PXI在就点而言和希特勒一样愚蠢。
 
 
-3. China has not been in a proper war since 1953 (excluding a few minor skirmishes with Vietnam and India). it has been one of the most peaceful countries in the second half of the 20th Century and early 21st Century. In a way the acquisition of the South China sea is a peaceful solution since no blood has been split (yet?).
+China has not been in a proper war since 1953 (excluding a few minor skirmishes with Vietnam and India). it has been one of the most peaceful countries in the second half of the 20th Century and early 21st Century. In a way the acquisition of the South China sea is a peaceful solution since no blood has been split (yet?).
 
 中国自1953年以来再没有陷入过完全战争（除了和越南、印度的小冲突）。他是20世纪后半段和21世纪以来最和平的国家。在某种程度上，中国获取南海的措施也是和平手段，因为（这其中）没有发生流血事件（到目前为止？）。
 
-4. China has upgraded and enlarged its military but not 'vastly'. Name a country that hasn't upgraded and enlarged its military recently. Technology around the world is improving rapidly and counties need to constantly upgrade their militaries if they want to defend themselves.
+China has upgraded and enlarged its military but not 'vastly'. Name a country that hasn't upgraded and enlarged its military recently. Technology around the world is improving rapidly and counties need to constantly upgrade their militaries if they want to defend themselves.
 
 中国升级并扩大了国家军队，但这规模并不夸张。你能报出近来没有发展军队的国家吗？世界各地的技术正在飞速发展，所以各个国家为了保护自己，都必须不断地升级军队。
 
