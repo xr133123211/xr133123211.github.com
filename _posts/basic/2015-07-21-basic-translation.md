@@ -9,8 +9,9 @@ image:
     caption_url: http://zh.wikipedia.org/zh-cn/%E5%B7%B4%E5%88%A5%E5%A1%94
 ---
 
-计划每两天翻译一篇quora的回答来温习英语，我选择的答案只是出于英语学习的角度，并不代表我会赞同这些答案和其中的观点。
-（第一篇翻译就是外国人眼中我国的战争观念，涉及到了南海问题和PresidentXI与Hitler的比较，我不同意这些观点）
+计划每两天翻译一篇quora的回答来温习英语，我只从便于学习英语的角度挑选文章，不代表我会赞同答案和其中的观点。
+
+（第一篇翻译居然就是外国人评价我国的战争观，其中涉及到了南海问题，还有PresidentXI与Hitler的比较，我不能赞同）
 
 Question: Is China eager for war? 
 Answered by Thomas Henderson
