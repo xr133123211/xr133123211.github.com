@@ -14,8 +14,11 @@ image:
 （第一篇翻译居然就是外国人评价我国的战争观，其中涉及到了南海问题，还有PresidentXI与Hitler的比较，我不能赞同）
 
 Question: Is China eager for war? 
+
 Answered by Thomas Henderson
+
 中国渴望战争吗？
+
 
 1. China is ignoring some international pressures such as refusing to conform to international copyright and intellectual property laws but is certainly happy to conform in other areas such as environmentalism, for example China has finally made promises on reducing carbon emissions and has pledged only to use nukes as a response to being nuked.
 
@@ -27,6 +30,7 @@ Answered by Thomas Henderson
 
 
 3. China has not been in a proper war since 1953 (excluding a few minor skirmishes with Vietnam and India). it has been one of the most peaceful countries in the second half of the 20th Century and early 21st Century. In a way the acquisition of the South China sea is a peaceful solution since no blood has been split (yet?).
+
 中国自1953年以来再没有陷入过完全战争（除了和越南、印度的小冲突）。他是20世纪后半段和21世纪以来最和平的国家。在某种程度上，中国获取南海的措施也是和平手段，因为（这其中）没有发生流血事件（到目前为止？）。
 
 4. China has upgraded and enlarged its military but not 'vastly'. Name a country that hasn't upgraded and enlarged its military recently. Technology around the world is improving rapidly and counties need to constantly upgrade their militaries if they want to defend themselves.
@@ -47,18 +51,30 @@ So no, China is not eager for war, it sees the goals it can achieve without war 
 
 At the moment China has a very competent leader, let's hope the next president is not as greedy and stupid as Hitler.
 
-。。。不想被查水表
+略（不想被查水表）
 
 词组：
+
 points of contention 争论的焦点
+
 the sheer size 庞大的体积
+
 explosive economic growth 爆炸性经济增长
+
 competent leader 有能力的领导
+
 conform to international copyright and intellectual property laws 遵守法规
+
 make promises on reducing carbon emissions 
+
 pledge only to use nukes as a response to being nuked
+
 spill a drop of blood 流一滴血
+
 verge on extreme cunning 接近极端狡猾
+
 in this regard 就这一点来谈
+
 in a way 某种程度上
+
 has never been as friendly with 从未如此友好
