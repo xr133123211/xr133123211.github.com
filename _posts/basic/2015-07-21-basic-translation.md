@@ -31,7 +31,7 @@ It is true that China is taking the territorial waters of Vietnam and the Philip
 
 China has not been in a proper war since 1953 (excluding a few minor skirmishes with Vietnam and India). it has been one of the most peaceful countries in the second half of the 20th Century and early 21st Century. In a way the acquisition of the South China sea is a peaceful solution since no blood has been split (yet?).
 
-中国自1953年以来再没有陷入过完全战争（除了和越南、印度的小冲突）。他是20世纪后半段和21世纪以来最和平的国家。在某种程度上，中国获取南海的措施也是和平手段，因为（这其中）没有发生流血事件（到目前为止？）。
+中国自1953年以来再没有陷入过完全战争（除了和越南、印度的小冲突）。他是20世纪后半段和21世纪以来最和平的国家。在某种程度上看，中国获取南海领海采取的也是和平手段，因为这期间没有发生过流血事件（到目前为止）。
 
 China has upgraded and enlarged its military but not 'vastly'. Name a country that hasn't upgraded and enlarged its military recently. Technology around the world is improving rapidly and counties need to constantly upgrade their militaries if they want to defend themselves.
 
@@ -51,7 +51,7 @@ So no, China is not eager for war, it sees the goals it can achieve without war 
 
 At the moment China has a very competent leader, let's hope the next president is not as greedy and stupid as Hitler.
 
-略（不想被查水表）
+略，不想被查水表
 
 词组：
 
