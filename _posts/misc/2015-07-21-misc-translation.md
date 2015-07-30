@@ -78,3 +78,26 @@ in this regard 就这一点来谈
 in a way 某种程度上
 
 has never been as friendly with 从未如此友好
+
+
+
+Question: Why do people quit their jobs at dream companies like Facebook or Google?
+Answered by Pedram Keyani
+人们为什么会从脸谱、谷歌这样理想的公司辞职？
+
+I was at Facebook for over 7 years and in many ways it was my dream job. I loved the mission, the smart people, and was able to work on a number of awesome initiatives. At the same time though, being there from the early days gave me the taste for building something meaningful, having huge impact, and hyper growth learning opportunities. 
+
+我过去在facebook工作了七年，这是我理想中的工作。我爱那里的工作，那里的同事，还有参与那些棒极了的项目的经历。
+在早期的那段时间，参与伟大而有影响力的项目、感受自身巨大的成长，都令我愉悦。
+
+Creating something new that could change the lives of millions/billions of people is challenging, stressful and frankly incredibly rewarding on a professional, personal and financial level. But to go and do that again I had to leave what is a dream job/role/status for most people.
+
+I'm an engineering director at Uber now working on a set of challenges and opportunities that are stretching my knowledge and abilities again. I'm in hyper learning mode again and in a role where I have a seat at the table in defining this company for the years ahead.
+
+Side Note: Before Facebook I was at Google and left a search powerhouse for a small scrappy social network that very few people knew. Most of my family couldn't understand my decision. It reminds me of how many people reacted to me leaving Facebook for Uber.
+
+
+词组：
+in many ways：在许多方面
+awesome initiatives：很棒的计划
+frankly incredibly：坦白说，难以置信
