@@ -92,12 +92,38 @@ I was at Facebook for over 7 years and in many ways it was my dream job. I loved
 
 Creating something new that could change the lives of millions/billions of people is challenging, stressful and frankly incredibly rewarding on a professional, personal and financial level. But to go and do that again I had to leave what is a dream job/role/status for most people.
 
-I'm an engineering director at Uber now working on a set of challenges and opportunities that are stretching my knowledge and abilities again. I'm in hyper learning mode again and in a role where I have a seat at the table in defining this company for the years ahead.
+I'm an engineering director at Uber now working on a set of challenges and opportunities that are stretching my knowledge and abilities again.
+ I'm in hyper learning mode again and in a role where I have a seat at the table in defining this company for the years ahead.
 
-Side Note: Before Facebook I was at Google and left a search powerhouse for a small scrappy social network that very few people knew. Most of my family couldn't understand my decision. It reminds me of how many people reacted to me leaving Facebook for Uber.
+Side Note: Before Facebook I was at Google and left a search powerhouse for a small scrappy social network that very few people knew. 
+Most of my family couldn't understand my decision. It reminds me of how many people reacted to me leaving Facebook for Uber.
 
 
 词组：
 in many ways：在许多方面
 awesome initiatives：很棒的计划
 frankly incredibly：坦白说，难以置信
+stretch my knowledge 扩展我的知识
+
+
+Q：Can one developer make a successful indie game?
+
+Answered By：Dylan Wilson, Craftwork Games
+
+Okay, here's my story. It's probably not what many would call "successful" but it's an honest account of what I have achieved as an indie thus far.
+
+Firstly, a bit of background. I've been programming since the age of 12. I'm 33 now and I've become very good at developing software. Making games has always been a hobby outside my day job but it's only been in the last year or so that I've really been trying to figure out how to make money from it. 
+
+I've also got a family to support, a mortgage to pay and 2 children under the age of 4. So one of my biggest challenges is finding the time to make games and run a business. For that reason, I've had to greatly improve my time management skills and figure out clever ways to make the most of every spare minute.
+
+Managing scope is also an issue. For a couple of years I burned a lot of time trying to build a project that was too big for one person. You'd be surprised how often this happens, and once you've already sunk hundreds of hours into a project it's hard to give it up, even after you realize you'll probably never finish it. Saying no, stripping features or doing whatever you have to do to get a game finished is really important. It's probably also why the stats say so many projects fail.
+
+Once I finally came to grips with my scope issues I made a decision. I was going to make a really, really small game and get it to market as quickly as possible. I spent another week thinking about what kind of game I could do in less than a month and finally realized it was staring my right in the face the whole time. I made a game called Toddler Word Puzzles for Android because it was something my 3 year old (at the time) could play and it was easy to create. The whole game took about 2 weeks from start to finish and I learned a lot about getting a game on the Google Play and developing for mobile devices in the process.
+
+In the first couple of days of having the game on Google Play I made my first sale. $1.70 to be exact. I was excited and confused at the same time, I actually believed it might be a mistake. Obviously it wasn't much money, but it was proof that someone appreciated what I had done and that was pretty cool. After the first month I had made about $5 total. The second month I made like $10 and in the third month I made about $20 and so on.. the numbers grew slowly and organically with no marketing at all. Today I make about $70 per month from that first app. There's no reason to believe it will stop making money, but I'm also not sure how to grow the sales from here.
+
+In terms of success, the game hasn't done much to replace my day job. But it has made me believe I can do it again, a little better each time and grow a business doing what I love. 
+
+My current plan is to keep making games and building reusable tech by increasing the scope a little each time. Focusing on quality and learning everything I can about building an app business, marketing, etc. 
+
+I hope this helps, and you have to passion and drive to try doing what you love. I'd love you hear your story and others like this.
