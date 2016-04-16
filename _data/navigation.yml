@@ -6,8 +6,8 @@
   url: "/basic/"
   side: left
 
-- title: "计算机图形学"
-  url: "/graphics/"
+- title: "计算机技术"
+  url: "/papers/"
   side: left
 
 - title: "杂文"
